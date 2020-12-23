@@ -8,7 +8,7 @@ public class Variaveis {
 		String nome = "Loione";
 		String nomeDoMeuCachorro = "Toby";
 		
-		idade = 25;
+		idade = 12;
 		
 		System.out.println("Idade = " + idade);
 		System.out.println("Nome = " + nome);
